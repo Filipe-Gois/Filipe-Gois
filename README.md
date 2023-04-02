@@ -21,5 +21,6 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-Gois&show_icons=true&theme=github_dark_dimmed)
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Gois&layout=compact&theme=github_dark_dimmed)](https://github.com/Filipe-Gois/github-readme-stats)
 
