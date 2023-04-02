@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/Filipe-Gois">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Gois&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Gois&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Gois&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Gois&theme=github_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
