@@ -3,7 +3,7 @@
   <h1 align="center">
     Oi, tudo bem? Meu nome é 
     <a href="https://www.linkedin.com/in/filipe-góis-841b58206/">Filipe Góis</a>
-    e estou cursando DEV no Senai.
+    e estou cursando desenvolvimento de sistemas no Senai.
   </h1>
   
   
