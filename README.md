@@ -9,7 +9,8 @@
   
   
   <p align="center">
-    Estou cursando desenvolvimento de sistemas no Senai Paulo Skaf.
+    Aluno do 
+    <a href="https://github.com/senai-desenvolvimento">Senai Paulo Skaf</a>
     
   </p>
   
