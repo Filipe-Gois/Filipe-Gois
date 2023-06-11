@@ -5,7 +5,7 @@
 
   ##
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Filipe-Gois&bg_color=0d1117&color=ffffff&line=6495ed&point=0000cd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Filipe-Gois&bg_color=0d1117&color=f7f7f7&line=4566a0&point=dcdcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ##
   <p align="center">
