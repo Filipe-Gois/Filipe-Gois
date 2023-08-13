@@ -51,8 +51,11 @@
 
 
 <div align="center">
-  <img height="300em" width="300em" alt="FooterImg" src="https://media.discordapp.net/attachments/869366332972486657/1140074159628623923/4522280713af862d64148f13873a8bbc.gif"/>
+  <img height="200em" width="200em" alt="FooterImg" src="https://media.discordapp.net/attachments/869366332972486657/1140078644077801552/rounded-in-photoretrica_4.png"/>
+  
   </div>
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
