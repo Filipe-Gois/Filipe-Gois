@@ -51,7 +51,7 @@
 
 
 <div align="center">
-  <img height="200em" width="200em" alt="FooterImg" src="https://media.discordapp.net/attachments/869366332972486657/1140078644077801552/rounded-in-photoretrica_4.png"/>
+  <img height="170em" width="170em" alt="FooterImg" src="https://media.discordapp.net/attachments/869366332972486657/1140078644077801552/rounded-in-photoretrica_4.png"/>
   
   </div>
 
