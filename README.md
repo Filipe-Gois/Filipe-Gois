@@ -31,6 +31,12 @@
 
   <h2>💻 My Technologies</h2>
 
+  <h3>Mobile:</h3>
+  <div>
+    <img height="35px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img height="35px" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </div>
+
   <h3>Front-End:</h3>
   <div>
     <img height="35px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
