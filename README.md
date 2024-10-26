@@ -8,16 +8,16 @@
 
 <!-- Header -->
 <div>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B91618&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=120&section=header"/>
     <a href="https://git.io/typing-svg">
-        <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=B91618&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Góis;I'm+17+years+old;I'm+from+Brazil;Studying+Systems+Development;Be+Welcome!+:%29"/>
+        <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=0ACC82&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Góis;I'm+17+years+old;I'm+from+Brazil;Studying+Systems+Development;Be+Welcome!+:%29"/>
     </a>
 </div>
 
 <!-- Activity Graph -->
 <div>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Filipe-Gois&bg_color=030712&color=f7f7f7&line=4566a0&point=dcdcdc&area=true&hide_border=true"/>
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Filipe-Gois&bg_color=030712&color=0ACC82&line=f7f7f7&point=dcdcdc&area=true&hide_border=true"/>
     </a>
 </div>
 
@@ -82,7 +82,7 @@
 
 <!-- Footer -->
 <div>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B91618&height=120&section=footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=120&section=footer"/>
 </div>
 
 </body>
