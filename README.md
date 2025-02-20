@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=120&section=header)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=150&section=header" width="100%">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ACC82&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Góis;I'm+18+years+old;I'm+from+Brazil;I'm+a+mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-## 📊 GitHub Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Filipe-Gois&bg_color=030712&color=0ACC82&line=f7f7f7&point=dcdcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -61,4 +60,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-g%C3%B3is-841b58206/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fythoy@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Filipe,%20gostaria%20de%20entrar%20em%20contato%20com%20você.)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=150&section=footer" width="100%">
