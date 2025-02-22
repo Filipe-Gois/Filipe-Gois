@@ -59,6 +59,6 @@
 ## 📨 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-g%C3%B3is-841b58206/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fythoy@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Filipe,%20gostaria%20de%20entrar%20em%20contato%20com%20você.)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipeogois@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Filipe,%20gostaria%20de%20entrar%20em%20contato%20com%20você.)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=150&section=footer" width="100%">
