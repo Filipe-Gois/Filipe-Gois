@@ -83,7 +83,7 @@
 ##
 
 <div align="center">
-  <img src="./artoria.gif" width="40%" style="border-radius: 10%;">
+  <img src="./artoria.gif" width="30%" style="border-radius: 10%;">
 </div>
 
 
