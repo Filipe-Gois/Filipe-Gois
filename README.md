@@ -82,6 +82,9 @@
 
 ##
 
-<img src="./artoria.gif" width="50%" style="display: block; margin: 0 auto; border-radius: 4%;">
+<div align="center">
+  <img src="./artoria.gif" width="40%" style="border-radius: 10%;">
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ACC82&height=150&section=footer" width="100%">
